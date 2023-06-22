@@ -5,7 +5,7 @@
 
 [![GitHub Masum](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/massumm)
 [![Linkedin Badge](https://img.shields.io/badge/Masum-Reza-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masum-reza-aa12a711a/) 
-[![Medium Badge](https://img.shields.io/badge/-@masum335-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@masum123)](https://medium.com/@shakil335)
+[![Medium Badge](https://img.shields.io/badge/-@masum335-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@masumz)](https://medium.com/@masumz)
 [![Gmail Badge](https://img.shields.io/badge/object.masum@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:object.masum@gmail.com)](mailto:object.masum@gmail.com)
 
 A little more about me...  
